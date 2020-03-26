@@ -1,2 +1,2 @@
 # MSconn
-Multi-Scale Connectivity metric
+Multi-Scale Connectivity metric, *MS<sub>Conn</sub>*
