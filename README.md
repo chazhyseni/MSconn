@@ -6,5 +6,5 @@ Multi-Scale Connectivity metric, *MS<sub>Conn</sub>*:
 - scripts
 - results, including:  
   - simulations (genotypes; spatially-explicit, forward-time)
-  - calculate metric using simulations
+  - calculate metric for simulated data
   - assess performance of metric
