@@ -8,3 +8,6 @@ Multi-Scale Connectivity metric, *MS<sub>Conn</sub>*:
   - simulations (genotypes; spatially-explicit, forward-time)
   - calculate metric for simulated data
   - assess performance of metric
+
+
+![Multi-scale Connectivity](MCmetric_Figure1.png)
